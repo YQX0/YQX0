@@ -1,0 +1,2 @@
+﻿openMP_.obj : error LNK2005: "void __cdecl comput(float *,float *,float *)" (?comput@@YAXPEAM00@Z) 已经在 openMP.obj 中定义
+D:\Xu\VSProjects\openMP\x64\Debug\openMP.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
